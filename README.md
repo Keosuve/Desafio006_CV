@@ -1,2 +1,2 @@
-# Desafio006_CV
-Desarrollo CV - Desafío Latam
+# Resumen Example
+A resumen web page using HTML and CSS
